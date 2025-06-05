@@ -3,4 +3,4 @@ cd -> movee entra diretórios
 pwd -> mostra diretório de trabalho
 cat -> exibe conteúdo do arquivo
 rm -> remove arquivo ou diretório
-git status -> mostra a branch atual, commits feitos e status de arquivos da pasta
+rm -rf -> remove de forma recursiva e forçada todos os diretórios
