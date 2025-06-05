@@ -1,6 +1,6 @@
 ls -> lista arquivos
 cd -> movee entra diretórios
 pwd -> mostra diretório de trabalho
-cat -> devolve o conteúdo do arquivo
-rm -> remove (-rf - recursive e force: remove as subpastas de forma recursiva e forçada)
+cat -> exibe conteúdo do arquivo
+rm -> remove arquivo ou diretório
 git status -> mostra a branch atual, commits feitos e status de arquivos da pasta
